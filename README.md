@@ -35,29 +35,29 @@ To provide some perspective, let's compare a `list` with a `set`:
 <tr>
 <td>
 
-Can store all types of data.<br/>
+<ul>Can store all types of data.</ul>
 
-Indexed - Each item in a list has a set location.<br/>
+<ul>Indexed - Each item in a list has a set location.</ul>
 
-Mutable - Can be extended or converted to another data type.<br/>
+<ul>Mutable - Can be extended or converted to another data type.</ul>
 
-Items can be repeated.<br/>
+<ul>Items can be repeated.</ul>
 
-Items can be changed or replaced.
+<ul>Items can be changed or replaced.</ul>
 
 </td>
 <td>
 
-Can store all types of data.<br/>
+<ul>Can store all types of data.</ul>
 
-Unindexed - Items in a set are stored through a [hash][hash table] of the
-item's name.<br/>
+<ul>Unindexed - Items in a set are stored through a [hash][hash table] of the
+item's name.</ul>
 
-Mutable - Can be extended or converted to another data type.<br/>
+<ul>Mutable - Can be extended or converted to another data type.</ul>
 
-Items are unique.<br/>
+<ul>Items are unique.</ul>
 
-Items cannot be changed or replaced.
+<ul>Items cannot be changed or replaced.</ul>
 
 </td>
 </tr>
