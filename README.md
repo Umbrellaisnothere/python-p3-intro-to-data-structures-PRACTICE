@@ -50,8 +50,7 @@ To provide some perspective, let's compare a `list` with a `set`:
 
 <ul>Can store all types of data.</ul>
 
-<ul>Unindexed - Items in a set are stored through a [hash][hash table] of the
-item's name.</ul>
+<ul>Unindexed - Items in a set are stored using an item's name.</ul>
 
 <ul>Mutable - Can be extended or converted to another data type.</ul>
 
@@ -68,8 +67,6 @@ are much more flexible than `set` objects. But if we're looking for _which_
 items exist rather than _how many_, a data structure with unique items that
 allows us to access them by _name_ rather than _index_ is more useful. Lucky
 for us, Python provides the `set` data structure out of the box!
-
-[hash table]: https://en.wikipedia.org/wiki/Hash_table
 
 ## Types of Data Structures in Python
 
