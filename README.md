@@ -9,7 +9,7 @@
 
 **Data** is information that has been standardized in such a way that it is
 useful to the individual or machine that is working with it. Everything that
-you see on your computer screen right now is composed of **data**. The letters
+you see on your computer screen right now is composed of data. The letters
 in this paragraph, the colors on this page, the links and buttons that navigate
 to and from resources on the internet- all data.
 
