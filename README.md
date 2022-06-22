@@ -76,17 +76,18 @@ require a little more work to set up.
 
 ### Data Types that are Data Structures
 
-- `list`
-- `tuple`
-- `str`
-- `set`
-- `dict`
-- [_`frozenset`_*](https://docs.python.org/3/library/stdtypes.html#frozenset)
-- [_`bytes`_*](https://docs.python.org/3/library/stdtypes.html#bytes)
-- [_`bytearray`_*](https://docs.python.org/3/library/stdtypes.html#bytearray)
+- Sequences:
+  - `list`
+  - `tuple`
+  - `str`
+- Sets:
+  - `set`
+  - [_`frozenset`_*](https://docs.python.org/3/library/stdtypes.html#frozenset)
+- Maps:
+  - `dict` (the only map type in Python!)
 
 \* _We won't be covering these in our curriculum, but they may be useful to you
-in mathematics or academic computer science_
+in advanced computing contexts_
 
 ### `collections` and `queue`
 
