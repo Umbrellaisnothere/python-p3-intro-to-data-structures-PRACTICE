@@ -2,8 +2,32 @@
 
 ## Learning Goals
 
-- Understand what a data structure is and how they are used in Python
-- Learn which types of tasks data structures are used to solve
+- Understand what a data structure is and how they are used in Python.
+- Learn which types of tasks data structures are used to solve.
+
+***
+
+## Key Vocab
+
+- **Sequence**: a data structure in which data is stored and accessed in a
+specific order.
+- **Index**: the location, represented by an integer, of an element in a
+sequence.
+- **Iterable**: able to be broken down into smaller parts of equal size that
+can be processed in turn. You can loop through any iterable object.
+- **Slice**: a group of neighboring elements in a sequence.
+- **Mutable**: an object that can be changed.
+- **Immutable**: an object that cannot be changed. (_Many immutable objects
+appear mutable because programmers reuse their names for new objects_.)
+- **List**: a mutable data type in Python that can store many types of data.
+The most common data structure in Python.
+- **Tuple**: an immutable data type in Python that can store many types of
+data.
+- **Range**: a data type in Python that stores integers in a fixed pattern.
+- **String**: an immutable data type in Python that stores unicode characters
+in a fixed pattern. Iterable and indexed, just like other sequences.
+
+***
 
 ## Introduction
 
@@ -19,6 +43,8 @@ the hobgoblin of little minds][pep 8 hobgoblin]. **Data structures** are a way
 for us to organize data in a way that is easy for computers to read.
 
 [pep 8 hobgoblin]: https://peps.python.org/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
+
+***
 
 ## Why Don't We Just Put Everything in a List?
 
@@ -68,6 +94,8 @@ items exist rather than _how many_, a data structure with unique items that
 allows us to access them by _name_ rather than _index_ is more useful. Lucky
 for us, Python provides the `set` data structure out of the box!
 
+***
+
 ## Types of Data Structures in Python
 
 Python gives us access to a number of different data structures to help us
@@ -94,10 +122,12 @@ in advanced computing contexts_
 Python does not come with _every_ data structure built into its data types, but
 the standard library includes several modules and packages that help us build
 out more complex data structures. `collections` and `queue` are the two most
-common; we'll explore them later on in this unit.
+common; we'll explore them later on in Phase 3.
 
 Be sure to check out the resources below as well, and bookmark them for future
 reference!
+
+***
 
 ## Resources
 
