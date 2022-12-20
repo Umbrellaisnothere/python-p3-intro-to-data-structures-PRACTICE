@@ -117,12 +117,12 @@ require a little more work to set up.
 \* _We won't be covering these in our curriculum, but they may be useful to you
 in advanced computing contexts_
 
-### `collections` and `queue`
+### Trees and Linked Lists
 
 Python does not come with _every_ data structure built into its data types, but
 the standard library includes several modules and packages that help us build
-out more complex data structures. `collections` and `queue` are the two most
-common; we'll explore them later on in Phase 3.
+out more complex data structures. Trees and linked lists are two of the most
+common. We'll discuss these later on in Phase 3.
 
 Be sure to check out the resources below as well, and bookmark them for future
 reference!
